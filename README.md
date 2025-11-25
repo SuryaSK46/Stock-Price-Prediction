@@ -102,13 +102,13 @@ for epoch in range(epochs):
 ## Output
 
 ### True Stock Price, Predicted Stock Price vs time
-<img width="591" height="408" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/9688e123-ee36-4137-924b-58b0718c3031" />
+<img width="722" height="513" alt="Screenshot 2025-11-25 110140" src="https://github.com/user-attachments/assets/694139bf-2c78-4fb8-9060-ae3fbbbd9d0f" />
+
 
 
 
 ### Predictions 
-<img width="324" height="43" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/eb4d8594-b0ec-4afc-9567-6aefec04c1ef" />
-<img width="689" height="431" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/51193766-40df-4fd6-9425-cd2e90a245fe" />
+<img width="966" height="602" alt="Screenshot 2025-11-25 110259" src="https://github.com/user-attachments/assets/94fa51fa-837d-461f-b080-c061bb3f42c1" />
 
 
 ## Result
